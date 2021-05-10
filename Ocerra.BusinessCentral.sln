@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocerra.BusinessCentral.Api", "Ocerra.BusinessCentral.Api\Ocerra.BusinessCentral.Api.csproj", "{D685F914-1479-4837-91B6-EB7DE0EE2612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocerra.BusinessCentral.Tests", "Ocerra.BusinessCentral.Tests\Ocerra.BusinessCentral.Tests.csproj", "{7796F3CA-6E9D-42F5-ACAF-CB46E73DB7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D685F914-1479-4837-91B6-EB7DE0EE2612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D685F914-1479-4837-91B6-EB7DE0EE2612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D685F914-1479-4837-91B6-EB7DE0EE2612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D685F914-1479-4837-91B6-EB7DE0EE2612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7796F3CA-6E9D-42F5-ACAF-CB46E73DB7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7796F3CA-6E9D-42F5-ACAF-CB46E73DB7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7796F3CA-6E9D-42F5-ACAF-CB46E73DB7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7796F3CA-6E9D-42F5-ACAF-CB46E73DB7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4314ABD7-39B6-4093-B515-E9426D973685}
+	EndGlobalSection
+EndGlobal
