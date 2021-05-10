@@ -10,6 +10,7 @@
     <PackageIcon>OcerraLogoDark.png</PackageIcon>
     <RepositoryUrl>https://github.com/Ocerra/BusinessCentralApi</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
